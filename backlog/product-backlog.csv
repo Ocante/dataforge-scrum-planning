@@ -1,0 +1,17 @@
+﻿ID,Funcionalidade,Prioridade planejada,Situação no quadro,Sprint proposta
+DF-001,Importação de arquivos CSV e Excel,P0 — Crítica,Concluído (simulação),Sprint 1
+DF-002,Validação de estrutura e tipos de dados,P0 — Crítica,Sprint Backlog,Sprint 1
+DF-003,Identificação de valores ausentes e duplicados,P0 — Crítica,Em teste (simulação),Sprint 1
+DF-004,Remoção e normalização de caracteres especiais,P0 — Crítica,Em andamento (simulação),Sprint 2
+DF-005,"Padronização de textos, datas e números",P0 — Crítica,A fazer,Sprint 2
+DF-006,Dicionário de controle e rastreabilidade,P0 — Crítica,Em revisão (simulação),Sprint 2
+DF-007,Pré-visualização dos dados tratados,P1 — Alta,Product Backlog,Sprint 3
+DF-008,"Exportação de dados CSV, Excel e JSON",P1 — Alta,Product Backlog,Sprint 3
+DF-009,Histórico de transformações e auditoria,P1 — Alta,Product Backlog,Sprint 3
+DF-010,Geolocalização por latitude e longitude,P1 — Alta,Impedido (simulação),Sprint 3
+DF-011,Integração com APIs externas,P1 — Alta,Product Backlog,Sprint 4
+DF-012,Exportação de redes GEXF e GraphML,P1 — Alta,Product Backlog,Sprint 4
+DF-013,Construção e visualização de redes,P0 — Crítica,Product Backlog,Sprint 4
+DF-014,Dashboard de qualidade dos dados,P1 — Alta,Product Backlog,Sprint 4
+DF-015,Processamento local e interface web,P1 — Alta,Product Backlog,Sprint 4
+DF-016,Controle de acesso e segurança,P1 — Alta,Product Backlog,Sprint 4
